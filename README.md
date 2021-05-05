@@ -9,6 +9,7 @@ install the PIP package
 .. code:: shell
 
     -python -m pip install
+    $ pip install python-telegram-bot --upgrade
 
 After installation of PIP package installer
 - Type
