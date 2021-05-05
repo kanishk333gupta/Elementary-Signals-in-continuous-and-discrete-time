@@ -8,7 +8,7 @@ To install PIP package installer
 - Open command prompt window and type 
 .. code:: shell
 
-    -python -m pip install
+    >python -m pip install
 
 After installation of PIP package installer
 - Type
