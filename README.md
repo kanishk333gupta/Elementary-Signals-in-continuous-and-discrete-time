@@ -6,10 +6,19 @@ Installing packages:-
 install the PIP package 
 - To install PIP package installer 
 - Open command prompt window and type 
->> python -m pip install
-- After installation of PIP package installer
+.. code:: shell
+
+    >> python -m pip install
+
+After installation of PIP package installer
 - Type
->> pip install numpy
-- To install Numpy package
+.. code:: shell
+
+    >> pip install numpy
+
+To install Numpy package
+
 - And to install Matplotlib , type
->> pip install matplotlib 
+.. code:: shell
+
+    >> pip install matplotlib 
