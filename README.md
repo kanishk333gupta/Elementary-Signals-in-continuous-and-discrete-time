@@ -8,17 +8,17 @@ install the PIP package
 - Open command prompt window and type 
 .. code:: shell
 
-    >> python -m pip install
+    -python -m pip install
 
 After installation of PIP package installer
 - Type
 .. code:: shell
 
-    >> pip install numpy
+    -pip install numpy
 
 To install Numpy package
 
 - And to install Matplotlib , type
 .. code:: shell
 
-    >> pip install matplotlib 
+    -pip install matplotlib 
