@@ -14,11 +14,11 @@ After installation of PIP package installer
 - Type
 .. code:: shell
 
-    -pip install matplotlib
+    >pip install matplotlib
 
 To install Numpy package
 
 - And to install Matplotlib , type
 .. code:: shell
 
-    -pip install matplotlib
+    >pip install matplotlib
