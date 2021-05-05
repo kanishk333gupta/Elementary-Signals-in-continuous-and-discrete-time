@@ -3,8 +3,8 @@ Elementary Signals in continuous and discrete time
 
 To run the propgram we install the necessary packages
 Installing packages:-
-install the PIP package 
-- To install PIP package installer 
+Install the PIP package 
+To install PIP package installer 
 - Open command prompt window and type 
 .. code:: shell
 
@@ -14,21 +14,11 @@ After installation of PIP package installer
 - Type
 .. code:: shell
 
-    -pip install numpy
+    -pip install matplotlib
 
 To install Numpy package
 
 - And to install Matplotlib , type
 .. code:: shell
 
-    >>pip install matplotlib
-
-
-.. code:: shell
-
-    -pip install matplotlib 
-You can install or upgrade python-telegram-bot with:
-
-.. code:: shell
-
-    $ pip install python-telegram-bot --upgrade
+    -pip install matplotlib
