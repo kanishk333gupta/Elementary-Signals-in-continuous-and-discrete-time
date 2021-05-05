@@ -6,24 +6,15 @@ Installing packages:-
 Install the PIP package 
 To install PIP package installer 
 - Open command prompt window and type 
-.. code:: shell
-
-    >python -m pip install
+    >>python -m pip install
 
 After installation of PIP package installer
 - Type
-.. code:: shell
 
-    >pip install matplotlib
+    >>pip install matplotlib
 
 To install Numpy package
 
 - And to install Matplotlib , type
-.. code:: shell
 
-    >pip install matplotlib
-You can install or upgrade python-telegram-bot with:
-
-.. code:: shell
-
-    >pip install matplotlib
+    >>pip install matplotlib
