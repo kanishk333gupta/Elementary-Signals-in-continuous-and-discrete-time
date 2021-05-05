@@ -22,3 +22,8 @@ To install Numpy package
 .. code:: shell
 
     >pip install matplotlib
+You can install or upgrade python-telegram-bot with:
+
+.. code:: shell
+
+    >pip install matplotlib
